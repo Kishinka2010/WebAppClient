@@ -1,3 +1,5 @@
+Выполнил работу студент группы мИИВТ-231 Кишинька Н.А.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
